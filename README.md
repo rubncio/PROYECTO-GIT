@@ -3,3 +3,7 @@ Git es un sistema de control de versiones distribuido que se utiliza para rastre
 Un archivo README de Git es un archivo de documentación que describe el proyecto de un repositorio
 Nueva linea añadida 
 Otra linea añadida desde local
+cambios de3sde feature
+2º cambio desde feature
+Cambios desde test
+2ºCambio desde test
